@@ -24,7 +24,7 @@ public class Entrada_de_dados2 {
 		System.out.println(s3);
 		
 		
-		
+		sc.close();
 		
 	}
 

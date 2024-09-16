@@ -27,6 +27,8 @@ public class Raiz_quadrada {
 		
 		System.out.println(x1);
 		System.out.println(x2);
+		
+		sc.close();
 	}
 
 }
